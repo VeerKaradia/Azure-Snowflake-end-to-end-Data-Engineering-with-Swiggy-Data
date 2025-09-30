@@ -1,7 +1,8 @@
 # Data Engineering
 ## Azure-Snowflake end to end Data Engineering with Swiggy Data
 
-<img width="1104" height="718" alt="Image" src="https://github.com/user-attachments/assets/5d414478-3d49-4fca-869e-6a3825d5894c" />
+<img width="1129" height="716" alt="Screenshot 2025-09-30 185523" src="https://github.com/user-attachments/assets/2e56f335-5d49-4f17-a9a4-2a1e993e0702" />
+
 
 ## Aim
 Ever wondered how food delivery and quick-commerce platforms like Swiggy or Zomato handle massive amounts of orders in real time?
