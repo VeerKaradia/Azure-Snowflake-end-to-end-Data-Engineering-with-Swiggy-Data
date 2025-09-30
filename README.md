@@ -1,6 +1,8 @@
 # Data Engineering
 ## Azure-Snowflake end to end Data Engineering with Swiggy Data
 
+<img width="1104" height="718" alt="Image" src="https://github.com/user-attachments/assets/5d414478-3d49-4fca-869e-6a3825d5894c" />
+
 ## Aim
 Ever wondered how food delivery and quick-commerce platforms like Swiggy or Zomato handle massive amounts of orders in real time?
 In this project, I will demonstrate an end-to-end data pipeline built on Azure and Snowflake for a real-life food aggregator, leveraging the Medallion architecture to ensure scalability, governance, and flexibility across ingestion, transformation, and consumption layers.
