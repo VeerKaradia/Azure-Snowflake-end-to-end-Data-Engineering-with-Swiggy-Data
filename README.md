@@ -1,7 +1,7 @@
 # Data Engineering
 ## Azure-Snowflake end to end Data Engineering with Swiggy Data
 
-<img width="1129" height="716" alt="Screenshot 2025-09-30 185523" src="https://github.com/user-attachments/assets/2e56f335-5d49-4f17-a9a4-2a1e993e0702" />
+<img width="1103" height="709" alt="Screenshot 2025-09-30 185523" src="https://github.com/user-attachments/assets/f43cb79b-d622-447a-af3d-bb19e83431bf" />
 
 
 ## Aim
