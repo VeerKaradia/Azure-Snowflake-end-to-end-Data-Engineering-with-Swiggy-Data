@@ -61,17 +61,22 @@ The images illustrate the Azure setup: the Storage Account hierarchy and folders
 Customer folder with csv file:
 <img width="1913" height="868" alt="storage account" src="https://github.com/user-attachments/assets/78ea7fb3-064b-440b-98e9-3d908720123a" />
 
+
 Storage Account hierarchy:
 <img width="1903" height="855" alt="storage account2" src="https://github.com/user-attachments/assets/8896fcbf-5188-42a4-9b46-d5589f66f585" />
+
 
 Event Grid Metrics once new file comes in the blob:
 <img width="1908" height="863" alt="event_grid" src="https://github.com/user-attachments/assets/c6e3c481-2f60-4e56-bf03-6fa4e2db0a54" />
 
+
 Latency Metrics:
 <img width="1899" height="857" alt="latency" src="https://github.com/user-attachments/assets/1cb4d383-1b2d-4429-a5e2-db5bddd5ee96" />
 
+
 Event Subscription:
 <img width="1866" height="822" alt="event subscription" src="https://github.com/user-attachments/assets/53c48bb6-6a44-4a6e-995e-843ef0ee16d7" />
+
 
 
 When new data is added to the Storage Account, Event Grid sends a topic to the Storage Queue, and Snowpipe reads the notification to automatically ingest the data: 
