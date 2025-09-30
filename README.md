@@ -91,7 +91,7 @@ Note: Notifications are intentionally shown in the Storage Queue for demonstrati
 <img width="1860" height="859" alt="notfication" src="https://github.com/user-attachments/assets/8fe515fc-bdc5-4a11-8ee7-695ebeefe22d" />
 
 
-When you integrate both storage and notification integration in Snowflake you can see the names of both in Azure Active Directory:
+When both the Storage Account and notification integration are configured in Snowflake, their names appear in Azure Active Directory, indicating successful setup:
 <img width="1526" height="674" alt="Azure Entra ID" src="https://github.com/user-attachments/assets/563b8add-36f0-4435-b56c-434b99aba2ad" />
 
 
