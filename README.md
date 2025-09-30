@@ -67,14 +67,15 @@ Storage Account hierarchy:
 Event Grid Metrics once new file comes in the blob:
 <img width="1908" height="863" alt="event_grid" src="https://github.com/user-attachments/assets/c6e3c481-2f60-4e56-bf03-6fa4e2db0a54" />
 
-Event Subscription:
-<img width="1866" height="822" alt="event subscription" src="https://github.com/user-attachments/assets/53c48bb6-6a44-4a6e-995e-843ef0ee16d7" />
-
 Latency Metrics:
 <img width="1899" height="857" alt="latency" src="https://github.com/user-attachments/assets/1cb4d383-1b2d-4429-a5e2-db5bddd5ee96" />
 
+Event Subscription:
+<img width="1866" height="822" alt="event subscription" src="https://github.com/user-attachments/assets/53c48bb6-6a44-4a6e-995e-843ef0ee16d7" />
 
-When new data is added to the Storage Account, Event Grid sends a topic to the Storage Queue, and Snowpipe reads the notification to automatically ingest the data:
+
+When new data is added to the Storage Account, Event Grid sends a topic to the Storage Queue, and Snowpipe reads the notification to automatically ingest the data: 
+Note: Notifications are intentionally shown in the Storage Queue for demonstration purposes; once Snowpipe is integrated, they are processed immediately, and the notifications page remains empty.
 <img width="1860" height="859" alt="notfication" src="https://github.com/user-attachments/assets/8fe515fc-bdc5-4a11-8ee7-695ebeefe22d" />
 
 
