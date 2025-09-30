@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "systemTopics_insert_update_delete2_name": {
+            "defaultValue": "insert-update-delete2",
+            "type": "String"
+        },
+        "StorageAccounts_swiggydata_externalid": {
+            "defaultValue": "/subscriptions/88a11fd7-0a3c-49eb-872e-5bee69dbc555/resourceGroups/test/providers/Microsoft.Storage/StorageAccounts/swiggydata",
+            "type": "String"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.EventGrid/systemTopics",
+            "apiVersion": "2025-04-01-preview",
+            "name": "[parameters('systemTopics_insert_update_delete2_name')]",
+            "location": "eastus",
+            "identity": {
+                "type": "None"
+            },
+            "properties": {
+                "source": "[parameters('StorageAccounts_swiggydata_externalid')]",
+                "topicType": "Microsoft.Storage.StorageAccounts"
+            }
+        },
+        {
+            "type": "Microsoft.EventGrid/systemTopics/eventSubscriptions",
+            "apiVersion": "2025-04-01-preview",
+            "name": "[concat(parameters('systemTopics_insert_update_delete2_name'), '/test')]",
+            "dependsOn": [
+                "[resourceId('Microsoft.EventGrid/systemTopics', parameters('systemTopics_insert_update_delete2_name'))]"
+            ],
+            "properties": {
+                "destination": {
+                    "properties": {
+                        "resourceId": "[parameters('StorageAccounts_swiggydata_externalid')]",
+                        "queueName": "notification",
+                        "queueMessageTimeToLiveInSeconds": 604800
+                    },
+                    "endpointType": "StorageQueue"
+                },
+                "filter": {
+                    "subjectBeginsWith": "/blobServices/default/containers/swiggyrawdata/blobs/swiggyrawdata/",
+                    "subjectEndsWith": ".csv",
+                    "includedEventTypes": [
+                        "Microsoft.Storage.BlobCreated",
+                        "Microsoft.Storage.BlobDeleted"
+                    ],
+                    "enableAdvancedFilteringOnArrays": true
+                },
+                "labels": [],
+                "eventDeliverySchema": "EventGridSchema",
+                "retryPolicy": {
+                    "maxDeliveryAttempts": 30,
+                    "eventTimeToLiveInMinutes": 1440
+                }
+            }
+        }
+    ]
+}
