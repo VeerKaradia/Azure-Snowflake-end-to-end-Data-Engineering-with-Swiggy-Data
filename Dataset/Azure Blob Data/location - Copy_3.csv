@@ -1,0 +1,10 @@
+LocationID,City,State,ZipCode,ActiveFlag,CreatedDate,ModifiedDate
+21,Noida,Uttar Pradesh,201301,Yes,1/5/2023 10:45,2/12/2023 15:20
+22,Lucknow,Uttar Pradesh,226001,No,3/15/2022 14:30,4/10/2022 12:00
+23,Kanpur,Uttar Pradesh,208001,Yes,6/10/2023 9:15,6/25/2023 11:45
+24,Varanasi,Uttar Pradesh,221001,No,8/22/2021 16:50,9/5/2021 17:30
+25,Meerut,Uttar Pradesh,250001,Yes,11/12/2022 8:20,11/30/2022 13:40
+26,Allahganj,Uttar Pradesh,202001,Yes,12/3/2022 12:00,12/20/2022 10:10
+27,Ghazipur,Uttar Pradesh,233001,Yes,2/18/2023 15:35,3/1/2023 14:55
+28,Moradabad,Uttar Pradesh,244001,No,4/1/2023 7:45,4/15/2023 9:20
+29,Bareilly,Uttar Pradesh,243001,Yes,5/27/2022 18:10,6/10/2022 17:00

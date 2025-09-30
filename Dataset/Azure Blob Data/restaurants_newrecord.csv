@@ -1,0 +1,2 @@
+RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address,Latitude,Longitude,CreatedDate,ModifiedDate
+61,Benne,South Indian,350,9811468710,12:00 PM - 23:30 PM,2,Yes,Open,Juhu,69 Juhu Street,18.9232,72.8564,4/5/2020,6/18/2021

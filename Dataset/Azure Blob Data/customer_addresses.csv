@@ -1,0 +1,41 @@
+AddressID,CustomerID,FlatNo,HouseNo,Floor,Building,Landmark,Locality,City,State,Pincode,Coordinates,PrimaryFlag,AddressType,CreatedDate,ModifiedDate
+11,11,212,25,1,Sharma Residency,Near Market,Lajpat Nagar,New Delhi,Delhi,110024,28.56789,Yes,Home,2019-01-15T10:15:00,2020-02-20T12:20:00
+12,12,101,48,2,Mehta Towers,Near Central Park,Connaught Place,New Delhi,Delhi,110001,28.63287,Yes,Home,2019-03-18T08:25:00,2021-05-25T11:50:00
+13,13,104,72,3,Gupta Apartments,Near Metro Station,Karol Bagh,New Delhi,Delhi,110005,28.65344,Yes,Home,2020-06-20T09:35:00,2021-08-30T14:25:00
+14,14,106,19,1,Joshi Enclave,Near Shopping Mall,Malviya Nagar,New Delhi,Delhi,110017,28.5432,Yes,Home,2021-01-10T11:20:00,2022-02-12T09:45:00
+15,15,109,36,2,Verma Residency,Near Park,Saket,New Delhi,Delhi,110017,28.52765,Yes,Office,2020-08-15T10:25:00,2021-11-20T12:15:00
+16,16,112,53,1,Kapoor Heights,Near School,Preet Vihar,New Delhi,Delhi,110092,28.65,Yes,Home,2019-11-22T09:50:00,2020-12-30T10:25:00
+17,17,115,81,3,Singh Complex,Near Temple,Indirapuram,Ghaziabad,Uttar Pradesh,201014,28.62111,Yes,Home,2020-02-05T14:15:00,2021-03-10T16:25:00
+18,18,118,12,2,Nair Residency,Near Hospital,Vasant Kunj,New Delhi,Delhi,110070,28.56432,Yes,Home,2021-04-10T12:05:00,2022-05-15T13:20:00
+19,19,121,67,1,Corporate Plaza,Near IT Park,Rohini,New Delhi,Delhi,110085,28.70012,Yes,Office,2019-07-18T10:50:00,2020-08-20T12:35:00
+20,20,124,94,2,Jain Towers,Near Metro,Janakpuri,New Delhi,Delhi,110058,28.64567,Yes,Home,2019-10-12T11:25:00,2021-01-20T12:15:00
+21,21,126,31,3,Thakur Enclave,Near Park,Greater Kailash,New Delhi,Delhi,110048,28.55234,Yes,Home,2020-01-05T09:15:00,2021-02-10T10:15:00
+22,22,129,56,1,Rao Residency,Near Mall,Laxmi Nagar,New Delhi,Delhi,110092,28.64123,Yes,Home,2019-03-22T12:05:00,2020-05-15T11:15:00
+23,23,132,78,2,Kumar Heights,Near Temple,Chhatarpur,New Delhi,Delhi,110074,28.59765,Yes,Home,2021-06-12T10:25:00,2022-07-20T12:35:00
+24,24,134,42,3,Desai Apartments,Near School,Karol Bagh,New Delhi,Delhi,110005,28.6532,Yes,Home,2020-09-18T09:55:00,2021-10-25T10:45:00
+25,25,136,69,1,Patel Towers,Near Market,Saket,New Delhi,Delhi,110017,28.52789,Yes,Office,2020-12-12T11:15:00,2021-01-15T12:35:00
+26,26,138,23,2,Sharma Enclave,Near Park,Connaught Place,New Delhi,Delhi,110001,28.63212,Yes,Home,2019-05-20T10:15:00,2020-06-25T11:15:00
+27,27,202,85,3,Rao Complex,Near Metro,Malviya Nagar,New Delhi,Delhi,110017,28.54398,Yes,Home,2020-03-10T09:50:00,2021-04-15T10:25:00
+28,28,205,47,1,Kapoor Residency,Near Hospital,Vasant Vihar,New Delhi,Delhi,110057,28.56743,Yes,Home,2021-02-14T11:35:00,2022-03-20T12:45:00
+29,29,208,91,2,Corporate Heights,Near IT Park,Rohini,New Delhi,Delhi,110085,28.70123,Yes,Office,2019-11-12T12:15:00,2020-12-15T13:15:00
+30,30,210,14,3,Jain Apartments,Near Temple,Indirapuram,Ghaziabad,Uttar Pradesh,201014,28.62198,Yes,Home,2019-08-10T10:15:00,2020-09-12T11:15:00
+31,31,213,66,1,Sharma Towers,Near Market,Saket,New Delhi,Delhi,110017,28.52743,Yes,Home,2020-01-20T12:15:00,2021-02-25T13:15:00
+32,32,216,38,2,Mehta Enclave,Near Park,Connaught Place,New Delhi,Delhi,110001,28.63298,Yes,Home,2019-04-12T09:50:00,2020-05-15T10:35:00
+33,33,219,79,3,Kumar Residency,Near Metro,Karol Bagh,New Delhi,Delhi,110005,28.65332,Yes,Home,2020-06-12T11:15:00,2021-07-20T12:15:00
+34,34,222,52,1,Desai Heights,Near School,Saket,New Delhi,Delhi,110017,28.52798,Yes,Home,2021-01-12T10:15:00,2022-02-15T11:15:00
+35,35,225,96,2,Patel Complex,Near Mall,Vasant Kunj,New Delhi,Delhi,110070,28.56498,Yes,Office,2020-08-12T12:15:00,2021-09-15T13:15:00
+36,36,227,33,1,Sharma Residency,Near Temple,Indirapuram,Ghaziabad,Uttar Pradesh,201014,28.62154,Yes,Home,2019-07-15T09:35:00,2020-08-18T10:45:00
+37,37,230,71,2,Rao Towers,Near Park,Rohini,New Delhi,Delhi,110085,28.70198,Yes,Home,2020-02-20T11:15:00,2021-03-25T12:15:00
+38,38,233,44,3,Kapoor Enclave,Near Hospital,Preet Vihar,New Delhi,Delhi,110092,28.65054,Yes,Home,2021-04-15T10:15:00,2022-05-18T11:15:00
+39,39,235,88,1,Corporate Plaza,Near IT Park,Lajpat Nagar,New Delhi,Delhi,110024,28.56712,Yes,Office,2019-09-20T12:15:00,2020-10-22T13:15:00
+40,40,237,55,2,Jain Heights,Near School,Saket,New Delhi,Delhi,110017,28.52743,Yes,Home,2019-11-18T09:35:00,2020-12-20T10:45:00
+41,41,331,77,3,Sharma Complex,Near Market,Greater Kailash,New Delhi,Delhi,110048,28.55265,Yes,Home,2020-01-15T11:15:00,2021-02-20T12:15:00
+42,42,132,29,1,Mehta Residency,Near Park,Laxmi Nagar,New Delhi,Delhi,110092,28.64198,Yes,Home,2019-03-20T09:50:00,2020-04-22T10:35:00
+43,43,233,63,2,Kumar Towers,Near Metro,Karol Bagh,New Delhi,Delhi,110005,28.65332,Yes,Home,2020-06-22T11:15:00,2021-07-25T12:15:00
+44,44,134,41,1,Desai Enclave,Near School,Saket,New Delhi,Delhi,110017,28.52798,Yes,Home,2021-01-12T10:15:00,2022-02-15T11:15:00
+45,45,235,84,2,Patel Heights,Near Mall,Connaught Place,New Delhi,Delhi,110001,28.63254,Yes,Office,2020-08-12T12:15:00,2021-09-15T13:15:00
+46,46,136,57,1,Sharma Residency,Near Temple,Lajpat Nagar,New Delhi,Delhi,110024,28.56712,Yes,Home,2019-07-15T09:35:00,2020-08-18T10:45:00
+47,47,237,92,2,Rao Towers,Near Park,Malviya Nagar,New Delhi,Delhi,110017,28.54387,Yes,Home,2020-02-20T11:15:00,2021-03-25T12:15:00
+48,48,138,34,1,Kapoor Enclave,Near Hospital,Vasant Vihar,New Delhi,Delhi,110057,28.56754,Yes,Home,2021-04-15T10:15:00,2022-05-18T11:15:00
+49,49,239,76,2,Corporate Plaza,Near IT Park,Rohini,New Delhi,Delhi,110085,28.70198,Yes,Office,2019-09-20T12:15:00,2020-10-22T13:15:00
+50,50,340,49,3,Jain Residency,Near School,Indirapuram,Ghaziabad,Uttar Pradesh,201014,28.62187,Yes,Home,2019-11-22T09:35:00,2020-12-25T10:45:00

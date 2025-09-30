@@ -1,0 +1,11 @@
+RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address,Latitude,Longitude,CreatedDate,ModifiedDate
+51,Marine Spice,"Indian, North Indian, Seafood",850,9812345710,12:00 PM - 23:30 PM,2,Yes,Open,Marine Drive,12 Marine Street,18.9432,72.8234,4/5/2020,6/18/2021
+52,Bandra Bistro,"Continental, Italian",950,9812345711,10:00 AM - 22:30 PM,2,Yes,Open,Bandra,56 Bandra Lane,19.0543,72.8402,6/14/2020,8/22/2021
+53,Curry Coast,"South Indian, Seafood",700,9812345712,11:00 AM - 23:00 PM,2,Yes,Open,Juhu,34 Juhu Street,19.1012,72.8265,8/19/2020,9/15/2021
+54,Chowpatty Chaat,"Fast Food, Street Food",400,9812345713,09:00 AM - 21:00 PM,2,Yes,Open,Chowpatty,78 Chaat Avenue,18.9543,72.8198,3/12/2020,12/1/2021
+55,Gateway Tandoor,"North Indian, Mughlai",750,9812345714,12:00 PM - 23:00 PM,2,Yes,Open,Colaba,90 Gateway Road,18.9228,72.8346,1/27/2021,11/30/2021
+56,Worli Waves,"Seafood, Chinese",900,9812345715,11:30 AM - 23:30 PM,2,Yes,Open,Worli,21 Worli Sea Face,18.9987,72.8173,2/10/2021,1/12/2022
+57,Dadar Delights,"Maharashtrian, Fast Food",500,9812345716,08:00 AM - 21:00 PM,2,Yes,Open,Dadar,45 Dadar Street,19.0176,72.8461,6/5/2020,9/25/2021
+58,Andheri Aroma,"Indian, Chinese, Continental",800,9812345717,10:30 AM - 22:30 PM,2,Yes,Open,Andheri,67 Aroma Road,19.1197,72.846,4/8/2021,2/14/2022
+59,Powai Palette,"Italian, Salads, Healthy",950,9812345718,09:30 AM - 22:00 PM,2,Yes,Open,Powai,34 Lake Avenue,19.1165,72.9095,7/21/2020,10/5/2021
+60,Borivali Biryani,"North Indian, Mughlai, Biryani",650,9812345719,11:00 AM - 23:00 PM,2,Yes,Open,Borivali,89 Biryani Street,19.2307,72.8567,12/15/2020,12/22/2021

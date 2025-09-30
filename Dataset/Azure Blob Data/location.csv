@@ -1,0 +1,11 @@
+LocationID,City,State,ZipCode,ActiveFlag,CreatedDate,ModifiedDate
+11,Ghaziabad,Uttar Pradesh,174451,No,5/9/2021 4:44,4/28/2022 23:06
+12,Arrah,Gujarat,949375,Yes,7/8/2021 3:50,7/26/2022 8:44
+13,Bongaigaon,Tripura,206038,Yes,6/22/2020 3:36,7/7/2020 1:19
+14,Mumbai,Tripura,413836,No,2/3/2021 8:09,3/21/2021 20:41
+15,Parbhani,Assam,386571,No,6/21/2021 4:41,9/3/2021 10:22
+16,Singrauli,Assam,623445,Yes,12/9/2022 13:20,12/28/2022 23:51
+17,Khammam,Karnataka,431329,Yes,6/19/2019 6:48,2/15/2020 16:55
+18,Dehradun,Manipur,561853,No,12/3/2020 0:41,7/30/2021 11:57
+19,Bilaspur,West Bengal,124903,Yes,7/22/2022 13:32,9/24/2022 5:09
+20,Mysore,Tamil Nadu,568044,Yes,6/27/2022 23:09,7/31/2022 17:26

@@ -1,0 +1,41 @@
+RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address,Latitude,Longitude,CreatedDate,ModifiedDate
+11,Spice Route,"Indian,North Indian",500,9812345670,09:00 AM - 22:00 PM,1,Yes,Open,Lajpat Nagar,123 Market Street,28.567891,77.234567,3/15/2019,6/20/2020
+12,The Green Bowl,"Healthy,Salads,Soups",600,9812345671,10:00 AM - 21:00 PM,1,Yes,Open,Connaught Place,45 Green Street,28.632872,77.21948,7/10/2019,2/18/2021
+13,name an,"South Indian,North Indian,Fast Food",450,9812345672,11:00 AM - 23:00 PM,1,Yes,Open,Karol Bagh,67 Curry Avenue,28.653449,77.223554,1/25/2020,8/5/2021
+14,Urban Tandoor,"North Indian,Chinese",700,9812345673,12:00 PM - 23:30 PM,1,Yes,Open,Malviya Nagar,12 Tandoor Lane,28.54321,77.210987,5/17/2020,1/30/2022
+15,Sweet Tooth,"Desserts,Beverages",400,9812345674,10:00 AM - 22:00 PM,1,Yes,Open,Saket,89 Sweet Street,28.527654,77.203456,9/12/2020,12/22/2021
+16,Bistro 21,"Continental,Italian",800,9812345675,09:30 AM - 22:30 PM,1,Yes,Open,Preet Vihar,21 Bistro Lane,28.65,77.216,11/3/2019,4/25/2020
+17,Masala Magic,"Indian,North Indian,South Indian",550,9812345676,10:00 AM - 23:00 PM,1,Yes,Open,Indirapuram,77 Masala Street,28.621111,77.238888,2/14/2021,9/10/2021
+18,The Salad Stop,"Healthy,Salads,Smoothies",500,9812345677,08:00 AM - 21:00 PM,1,Yes,Open,Vasant Kunj,34 Health Street,28.564321,77.204321,5/22/2021,3/15/2022
+19,Chow Chow,"Chinese,Thai,Fast Food",650,9812345678,11:00 AM - 22:00 PM,1,Yes,Open,Rohini,56 Chow Street,28.700123,77.120456,8/19/2019,7/30/2020
+20,Tandoori Tales,"North Indian,Mughlai",700,9812345679,12:00 PM - 23:00 PM,11,Yes,Open,Janakpuri,90 Tandoor Road,28.645678,77.123456,3/11/2020,1/27/2021
+21,Saffron Lounge,"Indian,Continental",900,9812345680,10:30 AM - 22:30 PM,1,Yes,Open,Greater Kailash,77 Saffron Avenue,28.552345,77.223456,12/5/2019,10/18/2020
+22,The Noodle House,"Chinese,Fast Food",550,9812345681,11:00 AM - 22:00 PM,1,Yes,Open,Laxmi Nagar,45 Noodle Street,28.641234,77.221234,6/8/2020,4/20/2021
+23,Pasta Fresca,"Italian,Continental",750,9812345682,12:00 PM - 23:00 PM,11,Yes,Open,Chhatarpur,12 Pasta Lane,28.597654,77.210123,1/15/2021,12/1/2021
+24,Burger Hub,"Fast Food,American",450,9812345683,10:00 AM - 23:00 PM,1,Yes,Open,Karol Bagh,34 Burger Street,28.65321,77.223654,5/9/2019,9/12/2020
+25,The Dessert Den,"Desserts,Cafes",400,9812345684,09:00 AM - 21:00 PM,1,Yes,Open,Saket,56 Sweet Avenue,28.52789,77.203123,7/11/2020,5/18/2021
+26,Coffee Corner,"Cafes,Beverages",350,9812345685,08:00 AM - 20:00 PM,1,Yes,Open,Connaught Place,78 Coffee Lane,28.632123,77.219876,3/7/2021,2/15/2022
+27,Biryani Bhavan,"Indian,North Indian,Mughlai",600,9812345686,11:00 AM - 23:00 PM,1,Yes,Open,Malviya Nagar,90 Biryani Street,28.543987,77.210654,9/21/2019,11/30/2020
+28,Green Leaf Cafe,"Healthy,Salads,Continental",550,9812345687,10:00 AM - 21:00 PM,1,Yes,Open,Vasant Vihar,45 Green Leaf Lane,28.567432,77.209876,2/17/2020,8/25/2021
+29,Dragon Wok,"Chinese,Fast Food",700,9812345688,12:00 PM - 22:00 PM,1,Yes,Open,Rohini,56 Dragon Street,28.701234,77.120987,8/23/2020,12/10/2021
+30,Tikka Tales,"North Indian,South Indian",600,9812345689,11:00 AM - 22:30 PM,1,Yes,Open,Indirapuram,78 Tikka Lane,28.621987,77.238654,11/14/2019,6/30/2020
+31,Olive Garden,"Italian,Continental",800,9812345690,12:00 PM - 23:00 PM,1,Yes,Open,Preet Vihar,12 Olive Road,28.650987,77.216432,4/19/2021,1/5/2022
+32,Momo Magic,"Chinese,Fast Food",450,9812345691,10:00 AM - 22:00 PM,1,Yes,Open,Lajpat Nagar,34 Momo Street,28.567123,77.234876,6/28/2019,8/15/2020
+33,Curry House,"Indian,North Indian,South Indian",650,9812345692,11:00 AM - 23:00 PM,1,Yes,Open,Saket,56 Curry Lane,28.527654,77.203987,5/4/2020,7/12/2021
+34,Pizza Point,"Italian,Fast Food",500,9812345693,10:00 AM - 23:00 PM,1,Yes,Open,Connaught Place,78 Pizza Street,28.632987,77.219432,9/16/2020,11/20/2021
+35,Dessert Junction,"Desserts,Beverages",400,9812345694,09:00 AM - 21:00 PM,1,Yes,Open,Karol Bagh,12 Sweet Lane,28.653876,77.223987,3/30/2019,12/18/2020
+36,Tea Time,"Cafes,Beverages",350,9812345695,08:00 AM - 20:00 PM,1,Yes,Open,Saket,34 Tea Street,28.527321,77.203654,1/9/2021,12/30/2021
+37,Spicy Treat,"Indian,North Indian,Mughlai",700,9812345696,11:00 AM - 22:30 PM,11,Yes,Open,Rohini,56 Spice Lane,28.700987,77.121234,2/25/2020,9/10/2021
+38,Salad Bowl,"Healthy,Salads,Continental",500,9812345697,10:00 AM - 21:00 PM,1,Yes,Open,Vasant Kunj,78 Salad Street,28.564987,77.204654,7/18/2020,6/28/2021
+39,Dragon Express,"Chinese,Fast Food",650,9812345698,12:00 PM - 22:00 PM,1,Yes,Open,Indirapuram,12 Dragon Lane,28.621543,77.238987,8/14/2019,11/25/2020
+40,Tandoori Express,"North Indian,Mughlai",700,9812345699,11:00 AM - 23:00 PM,11,Yes,Open,Saket,34 Tandoor Street,28.527432,77.203876,3/29/2020,1/19/2021
+41,Saffron Spice,"Indian,Continental",900,9812345700,10:30 AM - 22:30 PM,1,Yes,Open,Greater Kailash,56 Saffron Lane,28.552654,77.223987,12/11/2019,10/28/2020
+42,Noodle Point,"Chinese,Fast Food",550,9812345701,11:00 AM - 22:00 PM,1,Yes,Open,Laxmi Nagar,78 Noodle Lane,28.641987,77.221543,6/22/2020,4/15/2021
+43,Pizza Paradise,"Italian,Fast Food",500,9812345702,10:00 AM - 23:00 PM,1,Yes,Open,Karol Bagh,12 Pizza Avenue,28.653321,77.223123,2/28/2021,12/18/2021
+44,Dessert Delight,"Desserts,Beverages",400,9812345703,09:00 AM - 21:00 PM,1,Yes,Open,Saket,34 Sweet Street,28.527987,77.203876,5/14/2019,9/30/2020
+45,Coffee Club,"Cafes,Beverages",350,9812345704,08:00 AM - 20:00 PM,1,Yes,Open,Connaught Place,56 Coffee Lane,28.632543,77.219654,8/1/2020,7/20/2021
+46,Biryani Express,"Indian,North Indian,Mughlai",600,9812345705,11:00 AM - 23:00 PM,11,Yes,Open,Malviya Nagar,78 Biryani Lane,28.543876,77.210543,1/11/2021,3/5/2022
+47,Green Cafe,"Healthy,Salads,Continental",550,9812345706,10:00 AM - 21:00 PM,1,Yes,Open,Vasant Vihar,12 Green Street,28.567543,77.209987,9/5/2019,12/12/2020
+48,Dragon King,"Chinese,Fast Food",700,9812345707,12:00 PM - 22:00 PM,1,Yes,Open,Rohini,34 Dragon Avenue,28.701987,77.120543,4/22/2020,8/30/2021
+49,Tikka Express,"North Indian,South Indian",600,9812345708,11:00 AM - 22:30 PM,1,Yes,Open,Indirapuram,56 Tikka Street,28.621876,77.238543,11/28/2019,7/18/2020
+50,Olive Bistro,"Italian,Continental",800,9812345709,12:00 PM - 23:00 PM,1,Yes,Open,Preet Vihar,78 Olive Lane,28.650543,77.216876,3/19/2021,1/10/2022

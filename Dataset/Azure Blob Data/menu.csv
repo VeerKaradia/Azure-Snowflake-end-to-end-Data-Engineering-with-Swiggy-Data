@@ -1,0 +1,51 @@
+MenuID,RestaurantID,ItemName,Description,Price,Category,Availability,ItemType,CreatedDate,ModifiedDate
+27,11,Palak Paneer,Spinach curry with soft paneer cubes,180,Indian,TRUE,Veg,2019-03-15T10:00:00,2020-06-20T12:00:00
+28,12,Greek Salad,Fresh greens with feta  olives  and vinaigrette,150,Salads,TRUE,Veg,2019-07-10T10:00:00,2021-02-18T12:00:00
+29,13,Idli Sambhar,Steamed rice cakes served with spicy lentil soup,80,South Indian,TRUE,Veg,2020-01-25T10:00:00,2021-08-05T12:00:00
+30,14,Chicken Manchurian,Spicy chicken stir-fry with soy sauce,200,North Indian,TRUE,Non-Veg,2020-05-17T10:00:00,2022-01-30T12:00:00
+31,15,Chocolate Lava Cake,Warm cake with a molten chocolate center,120,Desserts,TRUE,Veg,2020-09-12T10:00:00,2021-12-22T12:00:00
+32,16,Margherita Pizza,Classic pizza with tomato  mozzarella  and basil,250,Italian,TRUE,Veg,2019-11-03T10:00:00,2020-04-25T12:00:00
+33,17,Chicken Biryani,Fragrant rice with spiced chicken and herbs,220,North Indian,TRUE,Non-Veg,2021-02-14T10:00:00,2021-09-10T12:00:00
+34,18,Quinoa Salad,Healthy quinoa with veggies and lemon dressing,160,Salads,TRUE,Veg,2021-05-22T10:00:00,2022-03-15T12:00:00
+35,19,Pad Thai,Stir-fried noodles with shrimp and peanuts,190,Thai,TRUE,Non-Veg,2019-08-19T10:00:00,2020-07-30T12:00:00
+36,20,Mutton Rogan Josh,Tender mutton in rich spiced gravy,240,Mughlai,TRUE,Non-Veg,2020-03-11T10:00:00,2021-01-27T12:00:00
+37,21,Vegetable Pulao,Fragrant rice with mixed vegetables and spices,170,Indian,TRUE,Veg,2019-12-05T10:00:00,2020-10-18T12:00:00
+38,22,Hakka Noodles,Stir-fried noodles with vegetables and soy sauce,140,Chinese,TRUE,Veg,2020-06-08T10:00:00,2021-04-20T12:00:00
+39,23,Spaghetti Aglio Olio,Pasta with garlic  olive oil  and chili flakes,230,Italian,TRUE,Veg,2021-01-15T10:00:00,2021-12-01T12:00:00
+40,24,Cheeseburger,Juicy patty with cheese  lettuce ,130,Fast Food,TRUE,Non-Veg,2019-05-09T10:00:00,2020-09-12T12:00:00
+41,25,Blueberry Cheesecake,Creamy cheesecake with blueberry topping,150,Desserts,TRUE,Veg,2020-07-11T10:00:00,2021-05-18T12:00:00
+42,26,Cappuccino,Frothy coffee with steamed milk,100,Beverages,TRUE,Veg,2021-03-07T10:00:00,2022-02-15T12:00:00
+43,27,Hyderabadi Biryani,Spiced rice with tender chicken and saffron,230,North Indian,TRUE,Non-Veg,2019-09-21T10:00:00,2020-11-30T12:00:00
+44,28,Avocado Toast,Toasted bread with mashed avocado and herbs,140,Healthy,TRUE,Veg,2020-02-17T10:00:00,2021-08-25T12:00:00
+45,29,Kung Pao Chicken,Spicy chicken with peanuts and vegetables,200,Chinese,TRUE,Non-Veg,2020-08-23T10:00:00,2021-12-10T12:00:00
+46,30,Paneer Dosa,Crepe filled with spiced paneer and chutney,90,South Indian,TRUE,Veg,2019-11-14T10:00:00,2020-06-30T12:00:00
+47,31,Pesto Pasta,Pasta tossed in fresh basil pesto sauce,240,Italian,TRUE,Veg,2021-04-19T10:00:00,2022-01-05T12:00:00
+48,32,Chicken Momos,Steamed dumplings filled with spiced chicken,120,Chinese,TRUE,Non-Veg,2019-06-28T10:00:00,2020-08-15T12:00:00
+49,33,Chole Bhature,Spicy chickpeas with fried bread,150,Indian,TRUE,Veg,2020-05-04T10:00:00,2021-07-12T12:00:00
+50,34,Pepperoni Pizza,Pizza with pepperoni and mozzarella,200,Italian,TRUE,Non-Veg,2020-09-16T10:00:00,2021-11-20T12:00:00
+51,35,Tiramisu,Classic Italian dessert with coffee and cream,160,Desserts,TRUE,Veg,2019-03-30T10:00:00,2020-12-18T12:00:00
+52,36,Masala Tea,Spiced tea with milk and cardamom,90,Beverages,TRUE,Veg,2021-01-09T10:00:00,2021-12-30T12:00:00
+53,37,Chicken Tikka Masala,Grilled chicken in creamy tomato sauce,210,North Indian,TRUE,Non-Veg,2020-02-25T10:00:00,2021-09-10T12:00:00
+54,38,Kale Smoothie,Healthy blend of kale  fruits  and yogurt,130,Smoothies,TRUE,Veg,2020-07-18T10:00:00,2021-06-28T12:00:00
+55,39,Chilli Chicken,Spicy chicken stir-fry with bell peppers,190,Chinese,TRUE,Non-Veg,2019-08-14T10:00:00,2020-11-25T12:00:00
+56,40,Mutton Biryani,Rich rice dish with spiced mutton,240,Mughlai,TRUE,Non-Veg,2020-03-29T10:00:00,2021-01-19T12:00:00
+57,41,Dal Makhani,Creamy lentils with butter and spices,180,Indian,TRUE,Veg,2019-12-11T10:00:00,2020-10-28T12:00:00
+58,42,Schezwan Fried Rice,Spicy fried rice with vegetables,140,Chinese,TRUE,Veg,2020-06-22T10:00:00,2021-04-15T12:00:00
+59,43,BBQ Chicken Pizza,Pizza with BBQ chicken and onions,210,Italian,TRUE,Non-Veg,2021-02-28T10:00:00,2021-12-18T12:00:00
+60,44,Red Velvet Cake,Moist cake with cream cheese frosting,150,Desserts,TRUE,Veg,2019-05-14T10:00:00,2020-09-30T12:00:00
+61,45,Latte,Espresso with steamed milk,110,Beverages,TRUE,Veg,2020-08-01T10:00:00,2021-07-20T12:00:00
+62,46,Lucknowi Biryani,Fragrant rice with spiced chicken,230,North Indian,TRUE,Non-Veg,2021-01-11T10:00:00,2022-03-05T12:00:00
+63,47,Caesar Salad,Crisp romaine with Caesar dressing and croutons,150,Salads,TRUE,Veg,2019-09-05T10:00:00,2020-12-12T12:00:00
+64,48,Dragon Chicken,Spicy chicken with chili sauce,200,Chinese,TRUE,Non-Veg,2020-04-22T10:00:00,2021-08-30T12:00:00
+65,49,Vegetable Dosa,Crepe filled with spiced vegetables,85,South Indian,TRUE,Veg,2019-11-28T10:00:00,2020-07-18T12:00:00
+66,50,Carbonara Pasta,Pasta with creamy egg and bacon sauce,250,Italian,TRUE,Non-Veg,2021-03-19T10:00:00,2022-01-10T12:00:00
+67,11,Rogan Josh,Lamb cooked in aromatic spices,220,North Indian,TRUE,Non-Veg,2019-03-15T10:00:00,2020-06-20T12:00:00
+68,12,Vegetable Soup,Hearty soup with fresh vegetables,120,Soups,TRUE,Veg,2019-07-10T10:00:00,2021-02-18T12:00:00
+69,13,Chicken Curry,Spicy chicken in South Indian gravy,180,South Indian,TRUE,Non-Veg,2020-01-25T10:00:00,2021-08-05T12:00:00
+70,14,Szechuan Noodles,Spicy noodles with vegetables,150,Chinese,TRUE,Veg,2020-05-17T10:00:00,2022-01-30T12:00:00
+71,15,Mango Smoothie,Refreshing mango and yogurt blend,130,Beverages,TRUE,Veg,2020-09-12T10:00:00,2021-12-22T12:00:00
+72,16,Bruschetta,Toasted bread with tomato and basil,140,Continental,TRUE,Veg,2019-11-03T10:00:00,2020-04-25T12:00:00
+73,17,Vada Sambhar,Fried lentil dumplings with lentil soup,90,South Indian,TRUE,Veg,2021-02-14T10:00:00,2021-09-10T12:00:00
+74,18,Berry Smoothie,Blend of mixed berries and yogurt,140,Smoothies,TRUE,Veg,2021-05-22T10:00:00,2022-03-15T12:00:00
+75,19,Thai Green Curry,Spicy coconut curry with vegetables,200,Thai,TRUE,Veg,2019-08-19T10:00:00,2020-07-30T12:00:00
+76,20,Paneer Butter Masala,Creamy paneer in tomato sauce,190,North Indian,TRUE,Veg,2020-03-11T10:00:00,2021-01-27T12:00:00
